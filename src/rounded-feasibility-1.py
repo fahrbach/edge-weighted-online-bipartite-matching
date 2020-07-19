@@ -2,7 +2,6 @@ from mpmath import mp
 
 mp.dps = 1000
 
-
 k_max = 8
 kappa = mp.mpf(1.5)
 gamma = mp.mpf(1)/mp.mpf(16)
