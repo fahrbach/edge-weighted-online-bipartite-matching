@@ -1,7 +1,8 @@
 # Edge-Weighted Online Bipartite Matching
 
-This repository contains the factor-revealing linear program in
-[Edge-Weighted Online Bipartite Matching](https://arxiv.org/abs/2005.01929).
+This repository contains code for the factor-revealing LP in
+[Edge-Weighted Online Bipartite Matching](https://arxiv.org/abs/2005.01929)
+(FOCS 2020).
 
 ## Citation
 
