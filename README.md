@@ -10,10 +10,12 @@ If you find this code useful in your research,
 we ask that you cite the following paper:
 
 ```
-@article{fahrbach2020edge,
-  title={Edge-Weighted Online Bipartite Matching},
+@inproceedings{fahrbach2020edge,
+  title={Edge-weighted online bipartite matching},
   author={Fahrbach, Matthew and Huang, Zhiyi and Tao, Runzhou and Zadimoghaddam, Morteza},
-  journal={arXiv preprint arXiv:2005.01929},
-  year={2020}
+  booktitle={2020 IEEE 61st Annual Symposium on Foundations of Computer Science (FOCS)},
+  pages={412--423},
+  year={2020},
+  organization={IEEE}
 }
 ```
