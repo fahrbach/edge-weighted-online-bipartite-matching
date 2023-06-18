@@ -2,7 +2,7 @@
 
 This repository contains code for the factor-revealing LP in
 [Edge-Weighted Online Bipartite Matching](https://arxiv.org/abs/2005.01929)
-(FOCS 2020).
+(JACM 2022, FOCS 2020 Best Paper).
 
 ## Citation
 
@@ -10,12 +10,16 @@ If you find this code useful in your research,
 we ask that you cite the following paper:
 
 ```
-@inproceedings{fahrbach2020edge,
-  title={Edge-weighted online bipartite matching},
-  author={Fahrbach, Matthew and Huang, Zhiyi and Tao, Runzhou and Zadimoghaddam, Morteza},
-  booktitle={2020 IEEE 61st Annual Symposium on Foundations of Computer Science (FOCS)},
-  pages={412--423},
-  year={2020},
-  organization={IEEE}
+@article{fahrbach2022edge,
+  author       = {Matthew Fahrbach and
+                  Zhiyi Huang and
+                  Runzhou Tao and
+                  Morteza Zadimoghaddam},
+  title        = {Edge-Weighted Online Bipartite Matching},
+  journal      = {J. {ACM}},
+  volume       = {69},
+  number       = {6},
+  pages        = {45:1--45:35},
+  year         = {2022},
 }
 ```
